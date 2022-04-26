@@ -1,4 +1,4 @@
-public class MatrixTranspoze {
+public class MatrixTranspose {
     public static void main(String args[]){
 
         int list[][] = {{1, 3, 4}, {2, 4, 3}, {3, 4, 5}};
