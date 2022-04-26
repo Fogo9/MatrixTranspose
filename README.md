@@ -1,4 +1,4 @@
-# **MATRIX TRANSPOZE**
+# **MATRIX TRANSPOSE**
 
 # Information
 
@@ -20,7 +20,7 @@
 
 ```Java
 
-        public class MatrixTranspoze {
+        public class MatrixTranspose {
 
             public static void main(String args[]){
 
@@ -81,7 +81,7 @@
 
 # LINK
 
-* Click here https://github.com/Fogo9/MatrixTranspoze.git to access the Github page for this project.
+* Click here https://github.com/Fogo9/MatrixTranspose.git to access the Github page for this project.
 
 <br />
 
