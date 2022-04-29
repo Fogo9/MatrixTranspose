@@ -1,22 +1,20 @@
 # **MATRIX TRANSPOSE**
 
-# Information
+## INFORMATION
 
 * **Program that transposes a matrix created with multidimensional arrays.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * 3-level and 3-digit lists were created.
 
 * With the for loop, it first prints the matrix and then transposes it.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -79,13 +77,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/MatrixTranspose.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
